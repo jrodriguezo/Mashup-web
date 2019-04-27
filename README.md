@@ -4,7 +4,7 @@ Show a message using different APIs, implemented in Java and executed in Eclipse
 ![image](https://user-images.githubusercontent.com/36509669/56841382-b18d0f80-688d-11e9-8753-118bd27ae409.png)
 
 
-It shows the temperature of the origin and destination (cities), the country they belong to, the currency code they use and the equivalent amount. All this depends on the time of day and, of course, on the correct functioning of the APIs.
+It shows the temperature (ºC) of the origin and destination (cities), the country they belong to, the currency code they use and the equivalent amount. All this depends on the time of day and, of course, on the correct functioning of the APIs.
 ## About the code
 - It is perfectly commented in es.upm.dit.isst.soa.Test.java
 ## APIs used
