@@ -14,7 +14,7 @@ no apiKey is neccesary
 maybe you need a new apiKey (is neccesary)
 - https://free.currencyconverterapi.com/
 maybe you need a new apiKey (is neccesary). My apiKey (created in 26/04/2019) expires in 60 days (I've used a free version).
-## How does it works
+## How does it work
 - Download repository .zip
 - Import in eclipse.
 - Update Maven: Rigth click on project > select Maven > Update Project. This is to eliminate "errors" in project.
