@@ -8,8 +8,6 @@ Show a message using different APIs, implemented in Java and executed in Eclipse
 It shows the temperature (ºC) of the origin and destination (cities), the country they belong to, the currency code they use and the equivalent amount. All this depends on the time of day.
 ## About the code
 - Commented in es.upm.dit.isst.soa.Test.java
-- APIs interaction
-![p5 diagram](https://user-images.githubusercontent.com/36509669/66866207-21589900-ef99-11e9-9ba9-70ae0895a3c5.png)
 ## APIs used
 - https://restcountries.eu    
 no apiKey is neccesary
@@ -17,6 +15,8 @@ no apiKey is neccesary
 maybe you need a new apiKey (is neccesary)
 - https://free.currencyconverterapi.com/
 maybe you need a new apiKey (is neccesary). <strike>My apiKey (created in 26/04/2019) expires in 60 days (I've used a free version)</strike>.
+### APIs interaction
+![p5 diagram](https://user-images.githubusercontent.com/36509669/66866207-21589900-ef99-11e9-9ba9-70ae0895a3c5.png)
 ## How does it work
 - Download repository .zip
 - Import in eclipse.
